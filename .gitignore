@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+trace.md
+eval_results.json
+eval_progress.json
+failures.md
